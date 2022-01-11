@@ -10,7 +10,7 @@ h1{
 }
 
 li{
-    font-family: monospace;
+    font-family: monospace, serif;
     font-size: 25px;
     text-align: center;
 }
