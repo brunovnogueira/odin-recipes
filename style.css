@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(231, 216, 149);
+}
+
+h1{
+    font-family: cursive, sans-serif;
+    color: rgb(172, 80, 144);
+    font-size: 50px;
+    text-align: center;
+}
+
+li{
+    font-family: monospace;
+    font-size: 25px;
+    text-align: center;
+}
